@@ -1,0 +1,24 @@
+<resources>
+    <!--SharedPreferences-->
+    <string name="name_file_preferences">com.txl.abx.desafio.sharepreferences</string>
+
+    <!--keys de API-->
+    <string name="key_token">plain-text-token</string>
+
+    <!--Métdos de API-->
+    <string name="api_login">login</string>
+
+    <string name="app_name">Desafio</string>
+    <string name="tv_iniciar_sesion">Iniciar sesión</string>
+    <string name="hint_correo">Ingresa tu correo</string>
+    <string name="hint_contrasena">Ingresa tu contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+    <string name="api_logout">logout</string>
+    <string name="tv_registro">Registro</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_registro_contrasena">Contraseña</string>
+    <string name="hint_registro_contrasena_dos">Confirmar contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+
+</resources>
