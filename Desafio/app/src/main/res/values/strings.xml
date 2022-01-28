@@ -7,6 +7,8 @@
 
     <!--Métdos de API-->
     <string name="api_login">login</string>
+    <string name="api_libros">books</string>
+    <string name="api_registro">register</string>
 
     <!--String para item de book-->
     <string name="tv_titulo">Titulo: %s</string>
@@ -33,6 +35,5 @@
     <string name="btn_registrar">Registrar</string>
     <string name="tv_cuenta">¿No tienes cuenta?</string>
     <string name="tv_registro_aqui">Registrate aquí</string>
-    <string name="api_registro">register</string>
 
 </resources>

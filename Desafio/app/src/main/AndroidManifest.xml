@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Desafio">
         <activity
+            android:name=".Detalles"
+            android:exported="false" />
+        <activity
             android:name=".Registro"
             android:exported="false" />
         <activity
