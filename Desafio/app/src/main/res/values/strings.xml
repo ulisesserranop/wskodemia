@@ -8,6 +8,17 @@
     <!--Métdos de API-->
     <string name="api_login">login</string>
 
+    <!--String para item de book-->
+    <string name="tv_titulo">Titulo: %s</string>
+    <string name="tv_content">Content: %s</string>
+    <string name="tv_type">Type: %s</string>
+    <string name="tv_link">Link: %s</string>
+
+    <!--Errores-->
+    <string name="error_internet">Ups! no estas conectado a internet</string>
+    <string name="campo_vacio">Campo vacio</string>
+    <string name="error_correo">Correo no valido</string>
+
     <string name="app_name">Desafio</string>
     <string name="tv_iniciar_sesion">Iniciar sesión</string>
     <string name="hint_correo">Ingresa tu correo</string>
@@ -20,5 +31,8 @@
     <string name="hint_registro_contrasena">Contraseña</string>
     <string name="hint_registro_contrasena_dos">Confirmar contraseña</string>
     <string name="btn_registrar">Registrar</string>
+    <string name="tv_cuenta">¿No tienes cuenta?</string>
+    <string name="tv_registro_aqui">Registrate aquí</string>
+    <string name="api_registro">register</string>
 
 </resources>

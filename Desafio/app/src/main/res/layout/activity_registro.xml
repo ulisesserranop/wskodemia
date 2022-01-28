@@ -47,7 +47,8 @@
                     android:id="@+id/tiet_registro_nombre"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/hint_nombre" />
+                    android:hint="@string/hint_nombre"
+                    android:inputType="textPersonName" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
@@ -65,7 +66,8 @@
                     android:id="@+id/tiet_registro_correo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/hint_correo" />
+                    android:hint="@string/hint_correo"
+                    android:inputType="textEmailAddress" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
@@ -83,7 +85,8 @@
                     android:id="@+id/tiet_registro_contrasena"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/hint_registro_contrasena" />
+                    android:hint="@string/hint_registro_contrasena"
+                    android:inputType="textPassword" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
@@ -101,7 +104,8 @@
                     android:id="@+id/tiet_registro_contrasena_dos"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/hint_registro_contrasena_dos" />
+                    android:hint="@string/hint_registro_contrasena_dos"
+                    android:inputType="textPassword" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button
